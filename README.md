@@ -83,8 +83,8 @@ Google Fonts: Poppins font for typography.
 FastAPI Backend: Handles chat logic with Google's Gemini 1.5 Flash model (see backend repo for details).
 
 Screenshots
-Coming soon! Add screenshots of the chat interface here.
-Contributing
+<img width="802" height="524" alt="Screenshot_3" src="https://github.com/user-attachments/assets/d96b4895-ea1c-423c-bc4d-6cec58be39f0" />
+
 
 Fork the repository.
 Create a new branch (git checkout -b feature/your-feature).
